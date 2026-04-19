@@ -4,7 +4,7 @@
 
 This project analyzes bank customer data to understand and predict churn using data science techniques.
 
-## 🎯 Objective
+##  Objective
 
 To identify customers who are likely to leave the bank.
 
