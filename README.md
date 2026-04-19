@@ -32,9 +32,9 @@ Bank Customer Churn Dataset (10,000 records)
 ##  Output
 
 Model predicts customer churn with ~75% accuracy.
-!(1.png)
-!(2.png)
-!(3.png)
+https://github.com/tiwari-riyaa/Bank-Churn-Analysis/blob/main/1.png
+https://github.com/tiwari-riyaa/Bank-Churn-Analysis/blob/main/2.png
+https://github.com/tiwari-riyaa/Bank-Churn-Analysis/blob/main/3.png
 ##  Future Work
 
 * Improve model accuracy
