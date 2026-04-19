@@ -32,6 +32,9 @@ Bank Customer Churn Dataset (10,000 records)
 ##  Output
 
 Model predicts customer churn with ~75% accuracy.
+1.png
+2.png
+3.png
 
 ##  Future Work
 
