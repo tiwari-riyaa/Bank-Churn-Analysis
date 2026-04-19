@@ -1,6 +1,6 @@
 # Bank Customer Churn Analysis
 
-## 📌 Overview
+##  Overview
 
 This project analyzes bank customer data to understand and predict churn using data science techniques.
 
@@ -8,7 +8,7 @@ This project analyzes bank customer data to understand and predict churn using d
 
 To identify customers who are likely to leave the bank.
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 * Data Preprocessing
 * Data Transformation
@@ -16,7 +16,7 @@ To identify customers who are likely to leave the bank.
 * Linear Regression
 * Correlation Analysis
 
-## 📊 Tools Used
+##  Tools Used
 
 * Python
 * Pandas
@@ -25,20 +25,20 @@ To identify customers who are likely to leave the bank.
 * Seaborn
 * Scikit-learn
 
-## 📁 Dataset
+##  Dataset
 
 Bank Customer Churn Dataset (10,000 records)
 
-## 📈 Output
+##  Output
 
 Model predicts customer churn with ~75% accuracy.
 
-## 🚀 Future Work
+##  Future Work
 
 * Improve model accuracy
 * Add advanced statistical methods
 * Deploy as web app
 
-## 👩‍💻 Author
+##  Author
 
 Riya Tiwari
